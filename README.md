@@ -1,7 +1,7 @@
 - 👋 Hi, I’m odunola akimu
 - 👀 I’m interested in data science, machine learning and deep learning...
 - 🌱 I’m currently learning machine learning and deep learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on application of AI in the oil and gas sector
 - 📫 How to reach me wwwlinkedin.com/in/akimu-odunola-b02602254
 
 <!---
