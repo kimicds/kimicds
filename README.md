@@ -7,7 +7,4 @@ CO₂ Prediction Model using low-cost sensors
 Hackathon Finalist (SPE, DSN AI Bootcamp)
 Nanomaterial-based Wastewater Treatment Research
 💡 Always open to collaboration on impactful AI and engineering projects!
-<!---
-kimicds/kimicds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
