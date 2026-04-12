@@ -43,15 +43,10 @@ I am a Chemical Engineering Graduate with a deep passion for applying artificial
 
 
 
-## 📊 GitHub Stats
+## 🌐 Languages Spoken
 
-<div align="center">
-
-![Odunola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimicdse&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimicdse&layout=compact&theme=dark&hide_border=true&title_color=58a6ff)
-
-</div>
+![English](https://img.shields.io/badge/English-Native-2ea44f?style=flat-square)
+![French](https://img.shields.io/badge/French-Conversational-blue?style=flat-square)
 
 ---
 
