@@ -47,7 +47,7 @@ I am a Chemical Engineering Graduate with a deep passion for applying artificial
 
 <div align="center">
 
-![Odunola's GitHub Stats](https://github-readme-stats.vercel.app/api?kimicds-username&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff)
+![Odunola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimicdse&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimicdse&layout=compact&theme=dark&hide_border=true&title_color=58a6ff)
 
