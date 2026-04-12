@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Odunola Akimu! 👋
+# Hey, I'm Odunola Akimu! 👋
 
-### Chemical Engineer· AI Researcher · Data Science Enthusiast
+### Chemical Engineer || AI Researcher || Machine Learning Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akimu-odunola/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akimu-odunola)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:odunolaakimu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=github)](https://github.com/kimicds)
 
