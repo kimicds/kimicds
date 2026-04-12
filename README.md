@@ -46,7 +46,7 @@ I am a Chemical Engineering Graduate with a deep passion for applying artificial
 ## 🌐 Languages Spoken
 
 ![English](https://img.shields.io/badge/English-Native-2ea44f?style=flat-square)
-![French](https://img.shields.io/badge/French-Conversational-blue?style=flat-square)
+![French](https://img.shields.io/badge/French-Native-blue?style=flat-square)
 
 ---
 
@@ -64,3 +64,4 @@ I am always open to collaborating on AI, data science, and engineering projects!
 *"Engineering the future, one model at a time."* 🚀
 
 </div>
+
