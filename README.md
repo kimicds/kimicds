@@ -2,7 +2,7 @@
 
 # Hey, I'm Odunola Akimu! 👋
 
-### Chemical Engineer || AI Researcher || Machine Learning Engineer
+### Chemical Engineer || Machine Learning Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akimu-odunola)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:odunolaakimu@gmail.com)
